@@ -31,3 +31,15 @@ OBJECTIVES
 2. Compare the performance of both Imbalance-XGBoost models to XGBoost without imbalance class handling, XGBoost with oversampling, and XGBoost with data weighting as standard imbalance class handling.
 
 3. Create classifications from the XGBoost interpretation in the form of decision paths to detect insurance fraud.
+
+REFERENCES
+
+[1] Hans.K.2022.Analisis Kinerja Algoritma Image Generator for Tabular Data dan Model Convolutional Neural Networks Dalam Memprediksi Fraud Asuransi. Skripsi. Fakultas Matematika dan Ilmu Pengetahuan Alam. Universitas Indonesia : Depok 
+
+[2] Khatri, S., Arora, A., & Agrawal, A. P. (2020). Supervised Machine Learning Algorithms for Credit Card Fraud Detection. 10th International Conference on Cloud Computing, Data Science & Engineering (Confluence), (hal. 680-683).
+
+[3] Nathanael.A.2022.Analisis Akurasi Imbalance XGBOOST untuk Prediksi Fraud Asuransi. Skripsi. Fakultas Matematika dan Ilmu pnegetahuan Alaam. Universitas Indonesia : Depok
+
+[4] Xia, H., Zhou, Y., & Zhang, Z. (2022). Auto insurance fraud identification based on a CNN-LSTM fusion deep learning model. International Journal of Ad Hoc and Ubiquitous Computing, 39(1/2), 37. https://doi.org/10.1504/ijahuc.2022.120943
+
+[5] C. Molnar. Interpretable machine learning: A guide for making black box models explainable. 2019.
